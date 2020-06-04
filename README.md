@@ -2,8 +2,8 @@
 
 A Roman numeral converter that converts integet numbers into Roman numerals
 
-####Roman number: I, V, X, L, C, D, M
-####Number: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
+#### Roman number: I, V, X, L, C, D, M
+#### Number: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
 
 #### Step-1 (Coding task)
 1. git clone "https://github.com/sbsanjaybharti/num_roman.git"
