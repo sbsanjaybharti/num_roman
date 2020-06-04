@@ -8,6 +8,7 @@ from roman import Roman
 if __name__ == '__main__':
 
     try:
+        # parameter required
         if len(sys.argv) <= 1:
             print("Integer number required")
         else:
