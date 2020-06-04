@@ -2,8 +2,8 @@
 
 A Roman numeral converter that converts integet numbers into Roman numerals
 
-#####Roman number: I, V, X, L, C, D, M
-#####Number: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
+####Roman number: I, V, X, L, C, D, M
+####Number: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
 
 #### Step-1 (Coding task)
 1. git clone "https://github.com/sbsanjaybharti/num_roman.git"
@@ -18,6 +18,8 @@ Here 36 is the parameter for the function sso you can change this number to chec
 ```python
     Time O(1), Space O(1)
 ```
+#### Note: How we commit the code
+ {jira task ID}#{comment(to push comment to jira task comment section)}:{who write the code}:{Your comment}
 
 
 
