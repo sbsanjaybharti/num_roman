@@ -14,6 +14,10 @@ A Roman numeral converter that converts integet numbers into Roman numerals
 ```
 Here 36 is the parameter for the function sso you can change this number to check other number in roman
 
+#### Time complexity:
+```python
+    Time O(1), Space O(1)
+```
 
 
 
